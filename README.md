@@ -2,4 +2,4 @@
 
 A game full of fun.
 
-A normolized edition forked from Sora-Gin-Ko.
+A normalized edition forked from Sora-Gin-Ko.
